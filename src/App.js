@@ -1,10 +1,8 @@
-import { FaBeer } from "@react-icons/all-files/fa/FaBeer";
-
+import Navbar from "./Components/Navbar";
 function App() {
   return (  
     <div>
-     <h1 className="text-4xl font-bold">Hello Sahil</h1>
-     <h3> Lets go for a <FaBeer />? </h3>
+        <Navbar/>
     </div>  
   );
 }
