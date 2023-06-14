@@ -5,7 +5,7 @@ const About = () => {
     <div name="about" className='w-full h-full  bg-gradient-to-b  from-gray-800 to-black md:h-screen text-white'>
       <div className='max-w-screen-lg p-4 mx-auto  flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-          <h1 className='text-6xl font-bold inline border-b-4 border-gray-500' >About</h1>
+          <h1 className='text-5xl font-bold inline border-b-4 border-gray-500' >About</h1>
         </div>
         <p className='text-xl mt-10'>
         I possess extensive expertise in modern front-end frameworks, particularly React, and have a passion for staying up-to-date with the latest technology innovations. My proficiency in React enables me to develop dynamic and interactive user interfaces efficiently
