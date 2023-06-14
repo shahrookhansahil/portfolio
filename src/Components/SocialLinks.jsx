@@ -61,6 +61,7 @@ const SocialLinks = () => {
       style: "rounded-br-md",
       download: true,
     },
+
   ];
   return (
     <div className="flex-col top-[35%] left-0 fixed">

@@ -24,6 +24,13 @@ export const Home = () => {
                         <MdOutlineKeyboardArrowRight size={30}/>
                     </span>
                 </Link>
+                <a
+                    href='./resume.pdf'
+                    className="lg:hidden text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-green-400 to-green-700 cursor-pointer font-bold hover:scale-105 transition duration-300 ease-in-out"
+                    download='Sahil-Resume.pdf'
+                    target="_blank"
+                    rel="noreferrer"
+                >Get Resume </a>
             </div>
             <di>
                 <img src={heroimge}  className='rounded-2xl mx-auto md:w-full shadow-xl shadow-gray-500' alt='jsx-a11y/img-redundant-alt'/>
