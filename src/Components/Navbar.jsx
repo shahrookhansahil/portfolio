@@ -17,11 +17,11 @@ function Navbar() {
     },  
     {
       id: 3,
-      name: 'portfolio',
+      name: 'projects',
     },
     {
       id: 4,
-      name: 'experience',
+      name: 'skills',
     },
     {
       id: 5,
@@ -29,7 +29,7 @@ function Navbar() {
     },
   ];
   return (
-    <div className='flex justify-between items-center w-full h-20 px-4 text-white bg-gradient-to-b from-black via-black to-gray-900 fixed'>
+    <div className='flex justify-between items-center w-full h-20 px-4 text-white bg-gradient-to-b from-black via-black to-gray-900 fixed mb-40'>
         <div>
           <h1 className='text-5xl font-signature ml-2'>Sahil</h1>
         </div>
