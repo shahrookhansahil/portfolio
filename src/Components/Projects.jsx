@@ -20,14 +20,14 @@ const Projects = () => {
       title: "Ecommerce Website",
       imageSrc: ecommerce,
       url: "https://mazari-store.netlify.app/#hero",
-      code: "https://github.com/shahrookhansahil/wheather-app",
+      code: "https://github.com/shahrookhansahil/Mazari-Store",
     },
     {
       id: 3,
       title: "React Portfolio",
       imageSrc: portfolio,
-      url: "https://github.com/shahrookhansahil/portfolio",
-      code: "https://github.com/shahrookhansahil/wheather-app",
+      url: " https://sahil-mazari.netlify.app/",
+      code: "https://github.com/shahrookhansahil/portfolio",
     },
 
     {
@@ -35,21 +35,21 @@ const Projects = () => {
       title: "Pizza Shop",
       imageSrc: pizzashop,
       url: "https://64d9c128faf31906915eeee7--flourishing-salmiakki-4dfb81.netlify.app/s",
-      code: "https://github.com/shahrookhansahil/wheather-app",
+      code: "https://github.com/shahrookhansahil/",
     },
     {
       id: 5,
       title: "Whatsapp Clone",
       imageSrc: whatsapp,
-      url: "https://github.com/shahrookhansahil?tab=repositories",
-      code: "https://github.com/shahrookhansahil/wheather-app",
+      url: "https://github.com/shahrookhansahil/whatsapp-clone",
+      code: "https://github.com/shahrookhansahil/whatsapp-clone",
     },
     {
       id: 6,
       title: "Netfix Clone",
       imageSrc: netflix,
       url: "https://netflix-clone-by-sahil.netlify.app/",
-      code: "https://github.com/shahrookhansahil/wheather-app",
+      code: "https://github.com/shahrookhansahil/Netflix-Clone",
     },
   ];
 
